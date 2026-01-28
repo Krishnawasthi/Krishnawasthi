@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --># 💫 About Me:
-currently working on my personal projects im looking for a job <br>
+👋 Hi, I’m Krishna Mohan Awasthi
+🎓 MCA student | 💻 Full-Stack Developer
+
+I love building clean, scalable, and user-friendly web applications.
+Currently working with JavaScript, React, Next.js, Node.js, MongoDB, and exploring system design & backend architecture.
+
+🚀 Passionate about learning by building real-world projects
+🌱 Always improving my problem-solving and DSA skills
+🤝 Open to collaborations, internships, and fresher roles  <br>
 
 
 ## 🌐 Socials:
