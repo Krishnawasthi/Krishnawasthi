@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --># 💫 About Me:
 👋 Hi, I’m Krishna Mohan Awasthi
-🎓 MCA student | 💻 Full-Stack Developer
+🎓 MCA student | 💻 software Developer
 
 I love building clean, scalable, and user-friendly web applications.
 Currently working with JavaScript, React, Next.js, Node.js, MongoDB, and exploring system design & backend architecture.
